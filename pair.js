@@ -57,25 +57,25 @@ router.get('/', async (req, res) => {
                let session = await Pair_Code_By_Maher_Zubair.sendMessage(Pair_Code_By_Maher_Zubair.user.id, { text: '' + b64data });
 
                let SIGMA_MD_TEXT = `
-*✅BELTAH-MD PAIR CODE SUCCESSFULLY CONNECTED✅*
+*✅MWTU-MD PAIR CODE SUCCESSFULLY CONNECTED✅*
 
 
 *FOLLOW OUR CHANNEL*
-𓄂 *_https://whatsapp.com/channel/0029VaRHDBKKmCPKp9B2uH2F_*
+𓄂 *_https://whatsapp.com/channel/0029VaamqHTJP212NuXUc40F_*
 
 *JOIN OUR GROUP*
-𓄂 *_https://chat.whatsapp.com/CQvUnqaDK4fBjgMXvFEAsI_*
+𓄂 *_https://chat.whatsapp.com/It1ASQSyVdrAXtvEiwH9DI_*
 
 *FORK AND STAR 🌟 THE REPO FOR COURAGE*
-𓄂 *_https://github.com/Beltahmd/beltah-md_*
+𓄂 *_https://github.com/Mwtutech/Mwtu-md_*
 
 *VISIT FOR TUTORIALS*
-𓄂 *_https://www.youtube.com/@Beltahtech2024_*
+𓄂 *_https://www.youtube.com/@Mwtutech2024_*
 
 *DEVELOPER: BELTAH TECH*
-𓄂 *_https://wa.me/254114141192_*
+𓄂 *_https://wa.me/254716490732_*
 
-*POWERED BY BELTAH TECH AND MADE WITH 💎*`
+*POWERED BY MWTU TECH AND MADE WITH ❤️*`
  await Pair_Code_By_Maher_Zubair.sendMessage(Pair_Code_By_Maher_Zubair.user.id,{text:SIGMA_MD_TEXT},{quoted:session})
  
 
